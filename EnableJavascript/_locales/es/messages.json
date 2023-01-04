@@ -1,0 +1,50 @@
+{
+   "Allow": {
+      "message": "permitir"
+   },
+   "AppDesc": {
+      "message": "Una manera fácil de activar / desactivar el JavaScript del sitio web"
+   },
+   "AppName": {
+      "message": "Habilitar Javascript"
+   },
+   "BlackList": {
+      "message": "Lista negra (siempre bloquee javascript para la siguiente url, una url por línea):"
+   },
+   "Block": {
+      "message": "bloquear"
+   },
+   "BlockNotifications": {
+      "message": "Bloquear notificaciones de envío de extensión"
+   },
+   "ClickTo": {
+      "message": "Haga clic para"
+   },
+   "ConfirmReset": {
+      "message": "Para confirmar Restablecer, haga clic en el botón Guardar"
+   },
+   "DontRefreshDisable": {
+      "message": "No actualice la página web actual cuando desactive JS"
+   },
+   "DontRefreshEnable": {
+      "message": "No actualice la página web actual cuando habilite JS"
+   },
+   "FirstMsg": {
+      "message": "Haga clic para activar esta extensión"
+   },
+   "OnePer": {
+      "message": "Una url por línea:"
+   },
+   "Reset": {
+      "message": "Restablecer la configuración predeterminada"
+   },
+   "Save": {
+      "message": "Guarda tu configuración"
+   },
+   "SaveSuccess": {
+      "message": "¡Guardado exitosamente!"
+   },
+   "WhiteList": {
+      "message": "Lista blanca (Permitir siempre javascript para la siguiente url):"
+   }
+}

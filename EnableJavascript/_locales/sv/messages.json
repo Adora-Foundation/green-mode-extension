@@ -1,0 +1,50 @@
+{
+   "Allow": {
+      "message": "tillåta"
+   },
+   "AppDesc": {
+      "message": "Ett enkelt sätt att slå på / stänga av webbplatsens JavaScript"
+   },
+   "AppName": {
+      "message": "Aktivera JavaScript"
+   },
+   "BlackList": {
+      "message": "Svartlista (Blockera alltid javascript för följande url, en url per rad):"
+   },
+   "Block": {
+      "message": "blockera"
+   },
+   "BlockNotifications": {
+      "message": "Blockera anknytningar för skicka tillägg"
+   },
+   "ClickTo": {
+      "message": "Klicka till"
+   },
+   "ConfirmReset": {
+      "message": "För att bekräfta Återställ, klicka på Spara"
+   },
+   "DontRefreshDisable": {
+      "message": "Uppdatera inte den aktuella webbsidan när du inaktiverar JS"
+   },
+   "DontRefreshEnable": {
+      "message": "Uppdatera inte den aktuella webbsidan när du aktiverar JS"
+   },
+   "FirstMsg": {
+      "message": "Klicka för att aktivera detta tillägg"
+   },
+   "OnePer": {
+      "message": "En webbadress per rad:"
+   },
+   "Reset": {
+      "message": "Återställ till standardinställning"
+   },
+   "Save": {
+      "message": "Spara dina inställningar"
+   },
+   "SaveSuccess": {
+      "message": "Sparad!"
+   },
+   "WhiteList": {
+      "message": "Vitlista (tillåt alltid javascript för följande url):"
+   }
+}

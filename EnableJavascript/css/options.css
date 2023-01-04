@@ -1,0 +1,13 @@
+body {
+    min-width: 500px;
+}
+
+textarea {
+    width: 100%;
+    box-sizing: border-box;
+    display: block;
+}
+
+.mute {
+    color: #d2d2d2;
+}

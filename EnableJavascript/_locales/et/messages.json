@@ -1,0 +1,50 @@
+{
+   "Allow": {
+      "message": "lubama"
+   },
+   "AppDesc": {
+      "message": "Lihtne viis veebisaidi JavaScripti sisse / välja lülitamiseks"
+   },
+   "AppName": {
+      "message": "Luba JavaScripti"
+   },
+   "BlackList": {
+      "message": "Must nimekiri (blokeerige alati javascript järgmise URL-i jaoks, üks URL rea kohta):"
+   },
+   "Block": {
+      "message": "blokeerida"
+   },
+   "BlockNotifications": {
+      "message": "Blokeeri laiendusteadete saatmine"
+   },
+   "ClickTo": {
+      "message": "Klõpsake nuppu"
+   },
+   "ConfirmReset": {
+      "message": "Lähtestamise kinnitamiseks klõpsake nuppu Salvesta"
+   },
+   "DontRefreshDisable": {
+      "message": "Ärge värskendage praegust veebilehte, kui JS on keelatud"
+   },
+   "DontRefreshEnable": {
+      "message": "Ärge värskendage praegust veebilehte, kui JS on lubatud"
+   },
+   "FirstMsg": {
+      "message": "Selle laiendi aktiveerimiseks klõpsake"
+   },
+   "OnePer": {
+      "message": "Üks URL rea kohta:"
+   },
+   "Reset": {
+      "message": "Lähtestage vaikesätetele"
+   },
+   "Save": {
+      "message": "Salvestage seaded"
+   },
+   "SaveSuccess": {
+      "message": "Salvestatud edukalt!"
+   },
+   "WhiteList": {
+      "message": "Valge nimekiri (lubage JavaScripti alati järgmise URL-i jaoks):"
+   }
+}

@@ -1,0 +1,50 @@
+{
+   "Allow": {
+      "message": "tillade"
+   },
+   "AppDesc": {
+      "message": "En nem måde at tænde / slukke for websidens JavaScript"
+   },
+   "AppName": {
+      "message": "Aktivér JavaScript"
+   },
+   "BlackList": {
+      "message": "Sortliste (Bloker altid javascript for følgende url, en url pr. Linje):"
+   },
+   "Block": {
+      "message": "blok"
+   },
+   "BlockNotifications": {
+      "message": "Bloker udvidelse send meddelelser"
+   },
+   "ClickTo": {
+      "message": "Klik for at"
+   },
+   "ConfirmReset": {
+      "message": "For at bekræfte Nulstil skal du klikke på Gem-knappen"
+   },
+   "DontRefreshDisable": {
+      "message": "Opdater ikke den aktuelle webside, når JS deaktiveres"
+   },
+   "DontRefreshEnable": {
+      "message": "Opdater ikke den aktuelle webside, når JS aktiveres"
+   },
+   "FirstMsg": {
+      "message": "Klik for at aktivere denne udvidelse"
+   },
+   "OnePer": {
+      "message": "Én url pr. Linje:"
+   },
+   "Reset": {
+      "message": "Nulstil til standardindstilling"
+   },
+   "Save": {
+      "message": "Gem dine indstillinger"
+   },
+   "SaveSuccess": {
+      "message": "Gemt med succes!"
+   },
+   "WhiteList": {
+      "message": "Hvidliste (tillad altid javascript til følgende url):"
+   }
+}

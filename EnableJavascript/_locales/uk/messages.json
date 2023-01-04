@@ -1,0 +1,50 @@
+{
+   "Allow": {
+      "message": "дозволяють"
+   },
+   "AppDesc": {
+      "message": "Простий спосіб увімкнути / вимкнути JavaScript веб-сайту"
+   },
+   "AppName": {
+      "message": "Увімкнути JavaScript"
+   },
+   "BlackList": {
+      "message": "Чорний список (Завжди блокуйте javascript для наступного URL-адреси, по одному URL-адресу на рядок):"
+   },
+   "Block": {
+      "message": "блок"
+   },
+   "BlockNotifications": {
+      "message": "Блок розширення надсилає сповіщення"
+   },
+   "ClickTo": {
+      "message": "Натисніть на"
+   },
+   "ConfirmReset": {
+      "message": "Для підтвердження Скидання натисніть кнопку Зберегти"
+   },
+   "DontRefreshDisable": {
+      "message": "Не оновлюйте поточну веб-сторінку при відключенні JS"
+   },
+   "DontRefreshEnable": {
+      "message": "Не оновлюйте поточну веб-сторінку при включенні JS"
+   },
+   "FirstMsg": {
+      "message": "Клацніть, щоб активувати це розширення"
+   },
+   "OnePer": {
+      "message": "Один URL на рядок:"
+   },
+   "Reset": {
+      "message": "Скидання до налаштувань за замовчуванням"
+   },
+   "Save": {
+      "message": "Збережіть налаштування"
+   },
+   "SaveSuccess": {
+      "message": "Збережено успішно!"
+   },
+   "WhiteList": {
+      "message": "Білий список (Завжди дозволяти JavaScript для наступного URL-адреси):"
+   }
+}

@@ -1,0 +1,50 @@
+{
+   "Allow": {
+      "message": "sallia"
+   },
+   "AppDesc": {
+      "message": "Helppo tapa kytkeä päälle / pois verkkosivuston JavaScript"
+   },
+   "AppName": {
+      "message": "Ota JavaScript käyttöön"
+   },
+   "BlackList": {
+      "message": "Musta lista (estä aina JavaScripti seuraavaa URL-osoitetta varten, yksi URL riviä kohti):"
+   },
+   "Block": {
+      "message": "lohko"
+   },
+   "BlockNotifications": {
+      "message": "Estä laajennus lähettämään ilmoituksia"
+   },
+   "ClickTo": {
+      "message": "Napsauta"
+   },
+   "ConfirmReset": {
+      "message": "Vahvista nollaus napsauttamalla Tallenna-painiketta"
+   },
+   "DontRefreshDisable": {
+      "message": "Älä päivitä nykyistä verkkosivua, kun JS poistetaan käytöstä"
+   },
+   "DontRefreshEnable": {
+      "message": "Älä päivitä nykyistä verkkosivua, kun JS on käytössä"
+   },
+   "FirstMsg": {
+      "message": "Aktivoi tämä laajennus napsauttamalla"
+   },
+   "OnePer": {
+      "message": "Yksi URL riviä kohti:"
+   },
+   "Reset": {
+      "message": "Palauta oletusasetuksiin"
+   },
+   "Save": {
+      "message": "Tallenna asetukset"
+   },
+   "SaveSuccess": {
+      "message": "Tallennettu onnistuneesti!"
+   },
+   "WhiteList": {
+      "message": "Valkoinen luettelo (Salli javascript aina seuraavan URL-osoitteen yhteydessä):"
+   }
+}

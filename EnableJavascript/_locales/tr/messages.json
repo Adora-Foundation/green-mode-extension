@@ -1,0 +1,50 @@
+{
+   "Allow": {
+      "message": "izin vermek"
+   },
+   "AppDesc": {
+      "message": "Web sitesinin JavaScript&#39;ini AÇIK / KAPALI hale getirmenin kolay bir yolu"
+   },
+   "AppName": {
+      "message": "JavaScript&#39;i etkinleştir"
+   },
+   "BlackList": {
+      "message": "Kara liste (Javascript&#39;i aşağıdaki URL için, her satırda bir URL için her zaman engelle):"
+   },
+   "Block": {
+      "message": "blok"
+   },
+   "BlockNotifications": {
+      "message": "Uzantı gönderme bildirimlerini engelle"
+   },
+   "ClickTo": {
+      "message": "Tıkla"
+   },
+   "ConfirmReset": {
+      "message": "Sıfırlamayı onaylamak için Kaydet düğmesine tıklayın"
+   },
+   "DontRefreshDisable": {
+      "message": "JS&#39;yi devre dışı bırakırken mevcut web sayfasını yenileyin"
+   },
+   "DontRefreshEnable": {
+      "message": "JS&#39;yi etkinleştirirken mevcut web sayfasını yenileyin"
+   },
+   "FirstMsg": {
+      "message": "Bu uzantıyı etkinleştirmek için tıklayın"
+   },
+   "OnePer": {
+      "message": "Satır başına bir url:"
+   },
+   "Reset": {
+      "message": "Varsayılan ayara sıfırla"
+   },
+   "Save": {
+      "message": "Ayarlarınızı kaydedin"
+   },
+   "SaveSuccess": {
+      "message": "Başarıyla kaydedildi!"
+   },
+   "WhiteList": {
+      "message": "Beyaz liste (Aşağıdaki URL için daima javascript&#39;e izin ver):"
+   }
+}

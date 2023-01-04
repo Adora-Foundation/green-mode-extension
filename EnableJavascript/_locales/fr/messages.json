@@ -1,0 +1,50 @@
+{
+   "Allow": {
+      "message": "Autoriser"
+   },
+   "AppDesc": {
+      "message": "Un moyen facile d&#39;activer / désactiver le JavaScript du site Web"
+   },
+   "AppName": {
+      "message": "Activer JavaScript"
+   },
+   "BlackList": {
+      "message": "Liste noire (Bloquez toujours javascript pour les URL suivantes, une URL par ligne):"
+   },
+   "Block": {
+      "message": "bloquer"
+   },
+   "BlockNotifications": {
+      "message": "Bloquer l&#39;extension envoyer des notifications"
+   },
+   "ClickTo": {
+      "message": "Cliquez pour"
+   },
+   "ConfirmReset": {
+      "message": "Pour confirmer la réinitialisation, cliquez sur le bouton Enregistrer"
+   },
+   "DontRefreshDisable": {
+      "message": "Ne pas actualiser la page Web actuelle lorsque vous désactivez JS"
+   },
+   "DontRefreshEnable": {
+      "message": "Ne pas actualiser la page Web actuelle lorsque vous activez JS"
+   },
+   "FirstMsg": {
+      "message": "Cliquez pour activer cette extension"
+   },
+   "OnePer": {
+      "message": "Une URL par ligne:"
+   },
+   "Reset": {
+      "message": "Rétablir les paramètres par défaut"
+   },
+   "Save": {
+      "message": "Sauvegardez vos paramètres"
+   },
+   "SaveSuccess": {
+      "message": "Enregistré avec succès!"
+   },
+   "WhiteList": {
+      "message": "Liste blanche (toujours autoriser javascript pour les URL suivantes):"
+   }
+}

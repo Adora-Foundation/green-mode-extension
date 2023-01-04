@@ -1,0 +1,30 @@
+{
+  "description": "GreenModeExtension",
+  "manifest_version": 3,
+  "name": "GreenModeExtension",
+  "version": "0.01",
+  "icons" : {
+    "48": "navlogo.png"
+  },
+  "permissions": [
+    "storage", "contentSettings", "activeTab","tabs","browsingData","scripting"
+  ],
+  "host_permissions": [
+    "*://*/*"
+  ],
+  "background": {
+    "service_worker": "GreenIT-Analysis/background.js"
+  },
+  "devtools_page": "GreenIT-Analysis/GreenIT-Analysis.html",
+  "options_ui": {
+    "page": "EnableJavaScript/options.html"
+  },
+  "action": {
+    "default_icon": {
+    "20": "navlogo.png",
+    "40": "navlogo.png"},
+    "default_title": "GreenModeExtension"
+  },
+  "offline_enabled": true,
+  "default_locale": "en"
+}

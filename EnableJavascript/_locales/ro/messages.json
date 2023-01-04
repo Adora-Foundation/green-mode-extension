@@ -1,0 +1,50 @@
+{
+   "Allow": {
+      "message": "permite"
+   },
+   "AppDesc": {
+      "message": "Un mod ușor de a activa JavaScript / a site-ului web"
+   },
+   "AppName": {
+      "message": "Permite Javascript"
+   },
+   "BlackList": {
+      "message": "Lista neagră (blocați întotdeauna javascript pentru urlarea urlului, câte un URL pe linie):"
+   },
+   "Block": {
+      "message": "bloc"
+   },
+   "BlockNotifications": {
+      "message": "Extensia de blocare trimite notificări"
+   },
+   "ClickTo": {
+      "message": "Apasa pe"
+   },
+   "ConfirmReset": {
+      "message": "Pentru confirmare Resetare, faceți clic pe butonul Salvați"
+   },
+   "DontRefreshDisable": {
+      "message": "Nu actualizați pagina web curentă atunci când dezactivați JS"
+   },
+   "DontRefreshEnable": {
+      "message": "Nu actualizați pagina web curentă atunci când activați JS"
+   },
+   "FirstMsg": {
+      "message": "Faceți clic pentru a activa această extensie"
+   },
+   "OnePer": {
+      "message": "O urlă pe linie:"
+   },
+   "Reset": {
+      "message": "Resetați la setarea implicită"
+   },
+   "Save": {
+      "message": "Salvați setările"
+   },
+   "SaveSuccess": {
+      "message": "Salvat cu succes!"
+   },
+   "WhiteList": {
+      "message": "Lista albă (Permiteți întotdeauna javascript pentru urlarea următoare):"
+   }
+}

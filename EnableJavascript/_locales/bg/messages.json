@@ -1,0 +1,50 @@
+{
+   "Allow": {
+      "message": "позволява"
+   },
+   "AppDesc": {
+      "message": "Лесен начин да включите / изключите JavaScript на уебсайта"
+   },
+   "AppName": {
+      "message": "Активиране на JavaScript"
+   },
+   "BlackList": {
+      "message": "Черен списък (Винаги блокирайте JavaScript за следния URL адрес, един URL адрес на ред):"
+   },
+   "Block": {
+      "message": "блок"
+   },
+   "BlockNotifications": {
+      "message": "Блок разширение изпраща известия"
+   },
+   "ClickTo": {
+      "message": "Щракнете към"
+   },
+   "ConfirmReset": {
+      "message": "За да потвърдите нулиране, натиснете бутона Save"
+   },
+   "DontRefreshDisable": {
+      "message": "Не опреснявайте текущата уеб страница, когато деактивирате JS"
+   },
+   "DontRefreshEnable": {
+      "message": "Не опреснявайте текущата уеб страница, когато активирате JS"
+   },
+   "FirstMsg": {
+      "message": "Кликнете, за да активирате това разширение"
+   },
+   "OnePer": {
+      "message": "Един URL адрес на ред:"
+   },
+   "Reset": {
+      "message": "Възстановяване на настройките по подразбиране"
+   },
+   "Save": {
+      "message": "Запазете вашите настройки"
+   },
+   "SaveSuccess": {
+      "message": "Запазено успешно!"
+   },
+   "WhiteList": {
+      "message": "Бял списък (Винаги разрешавайте javascript за следния URL адрес):"
+   }
+}

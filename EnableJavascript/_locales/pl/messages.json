@@ -1,0 +1,50 @@
+{
+   "Allow": {
+      "message": "dopuszczać"
+   },
+   "AppDesc": {
+      "message": "Łatwy sposób na włączenie / wyłączenie JavaScript strony"
+   },
+   "AppName": {
+      "message": "Włącz JavaScript"
+   },
+   "BlackList": {
+      "message": "Czarna lista (Zawsze blokuj javascript dla następującego adresu URL, jeden adres URL w wierszu):"
+   },
+   "Block": {
+      "message": "blok"
+   },
+   "BlockNotifications": {
+      "message": "Blokuj rozszerzenie wysyłaj powiadomienia"
+   },
+   "ClickTo": {
+      "message": "Kliknij, aby"
+   },
+   "ConfirmReset": {
+      "message": "Aby potwierdzić reset, kliknij przycisk Zapisz"
+   },
+   "DontRefreshDisable": {
+      "message": "Nie odświeżaj bieżącej strony po wyłączeniu JS"
+   },
+   "DontRefreshEnable": {
+      "message": "Nie odświeżaj bieżącej strony po włączeniu JS"
+   },
+   "FirstMsg": {
+      "message": "Kliknij, aby aktywować to rozszerzenie"
+   },
+   "OnePer": {
+      "message": "Jeden adres URL w wierszu:"
+   },
+   "Reset": {
+      "message": "Zresetuj do ustawień domyślnych"
+   },
+   "Save": {
+      "message": "Zapisz swoje ustawienia"
+   },
+   "SaveSuccess": {
+      "message": "Zapisano pomyślnie!"
+   },
+   "WhiteList": {
+      "message": "Biała lista (Zawsze zezwalaj na javascript dla następującego adresu URL):"
+   }
+}

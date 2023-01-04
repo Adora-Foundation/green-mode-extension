@@ -1,0 +1,50 @@
+{
+   "Allow": {
+      "message": "benarkan"
+   },
+   "AppDesc": {
+      "message": "Cara mudah untuk menghidupkan / mematikan JavaScript laman web"
+   },
+   "AppName": {
+      "message": "Dayakan JavaScript"
+   },
+   "BlackList": {
+      "message": "Senarai hitam (Sentiasa blokkan javascript untuk mengikuti url, satu url setiap baris):"
+   },
+   "Block": {
+      "message": "sekatan"
+   },
+   "BlockNotifications": {
+      "message": "Sambungan sekatan menghantar pemberitahuan"
+   },
+   "ClickTo": {
+      "message": "Klik untuk"
+   },
+   "ConfirmReset": {
+      "message": "Untuk mengesahkan Tetapkan semula klik butang Simpan"
+   },
+   "DontRefreshDisable": {
+      "message": "Jangan muat semula laman web semasa semasa melumpuhkan JS"
+   },
+   "DontRefreshEnable": {
+      "message": "Jangan muat semula halaman web semasa semasa mengaktifkan JS"
+   },
+   "FirstMsg": {
+      "message": "Klik untuk mengaktifkan pelanjutan ini"
+   },
+   "OnePer": {
+      "message": "Satu url setiap baris:"
+   },
+   "Reset": {
+      "message": "Tetapkan semula ke tetapan lalai"
+   },
+   "Save": {
+      "message": "Simpan tetapan anda"
+   },
+   "SaveSuccess": {
+      "message": "Berjaya disimpan!"
+   },
+   "WhiteList": {
+      "message": "Senarai putih (Sentiasa benarkan javascript untuk mengikuti url):"
+   }
+}

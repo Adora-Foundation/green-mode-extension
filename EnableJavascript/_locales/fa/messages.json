@@ -1,0 +1,50 @@
+{
+   "Allow": {
+      "message": "اجازه"
+   },
+   "AppDesc": {
+      "message": "راهی آسان برای روشن یا خاموش کردن JavaScript وب سایت"
+   },
+   "AppName": {
+      "message": "JavaScript را فعال کنید"
+   },
+   "BlackList": {
+      "message": "لیست سیاه (همیشه جاوا اسکریپت را برای دنبال کردن آدرس اینترنتی ، یک url در هر خط مسدود کنید):"
+   },
+   "Block": {
+      "message": "مسدود کردن"
+   },
+   "BlockNotifications": {
+      "message": "افزودنی اعلان ارسال بلاک"
+   },
+   "ClickTo": {
+      "message": "کلیک کنید تا"
+   },
+   "ConfirmReset": {
+      "message": "برای تأیید تنظیم مجدد ، روی دکمه ذخیره کلیک کنید"
+   },
+   "DontRefreshDisable": {
+      "message": "هنگام غیرفعال کردن JS ، صفحه وب فعلی را تازه نکنید"
+   },
+   "DontRefreshEnable": {
+      "message": "هنگام فعال کردن JS ، صفحه وب فعلی را تازه نکنید"
+   },
+   "FirstMsg": {
+      "message": "برای فعال کردن این افزونه کلیک کنید"
+   },
+   "OnePer": {
+      "message": "یک url در هر خط:"
+   },
+   "Reset": {
+      "message": "تنظیم مجدد به تنظیم پیش فرض"
+   },
+   "Save": {
+      "message": "تنظیمات خود را ذخیره کنید"
+   },
+   "SaveSuccess": {
+      "message": "با موفقیت ذخیره شد!"
+   },
+   "WhiteList": {
+      "message": "لیست سفید (همیشه urascript را به آدرس زیر بخواهید):"
+   }
+}

@@ -1,0 +1,50 @@
+{
+   "Allow": {
+      "message": "ermöglichen"
+   },
+   "AppDesc": {
+      "message": "Eine einfache Möglichkeit, das JavaScript der Website ein- und auszuschalten"
+   },
+   "AppName": {
+      "message": "Aktivieren Sie Javascript"
+   },
+   "BlackList": {
+      "message": "Blacklist (Blockiere immer Javascript für folgende URL, eine URL pro Zeile):"
+   },
+   "Block": {
+      "message": "Block"
+   },
+   "BlockNotifications": {
+      "message": "Blockerweiterung senden Benachrichtigungen"
+   },
+   "ClickTo": {
+      "message": "Klicke um"
+   },
+   "ConfirmReset": {
+      "message": "Um das Zurücksetzen zu bestätigen, klicken Sie auf die Schaltfläche Speichern"
+   },
+   "DontRefreshDisable": {
+      "message": "Aktualisieren Sie die aktuelle Webseite nicht, wenn Sie JS deaktivieren"
+   },
+   "DontRefreshEnable": {
+      "message": "Aktualisieren Sie die aktuelle Webseite nicht, wenn Sie JS aktivieren"
+   },
+   "FirstMsg": {
+      "message": "Klicken Sie hier, um diese Erweiterung zu aktivieren"
+   },
+   "OnePer": {
+      "message": "Eine URL pro Zeile:"
+   },
+   "Reset": {
+      "message": "Auf Standardeinstellung zurücksetzen"
+   },
+   "Save": {
+      "message": "Speichern Sie Ihre Einstellungen"
+   },
+   "SaveSuccess": {
+      "message": "Erfolgreich gespeichert!"
+   },
+   "WhiteList": {
+      "message": "Whitelist (Erlaube immer Javascript für folgende URL):"
+   }
+}

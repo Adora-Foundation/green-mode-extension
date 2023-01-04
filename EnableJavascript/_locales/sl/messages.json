@@ -1,0 +1,50 @@
+{
+   "Allow": {
+      "message": "dovoli"
+   },
+   "AppDesc": {
+      "message": "Preprost način za vklop / izklop JavaScript spletnega mesta"
+   },
+   "AppName": {
+      "message": "Omogoči JavaScript"
+   },
+   "BlackList": {
+      "message": "Črni seznam (Vedno blokirajte javascript za naslednji URL, en URL v vrstici):"
+   },
+   "Block": {
+      "message": "blok"
+   },
+   "BlockNotifications": {
+      "message": "Pošlji obvestila o razširitvi blokov"
+   },
+   "ClickTo": {
+      "message": "Kliknite na"
+   },
+   "ConfirmReset": {
+      "message": "Za potrditev ponastavitve kliknite gumb Shrani"
+   },
+   "DontRefreshDisable": {
+      "message": "Ko onemogočite JS, ne osvežite trenutne spletne strani"
+   },
+   "DontRefreshEnable": {
+      "message": "Ne osvežite trenutne spletne strani, ko omogočite JS"
+   },
+   "FirstMsg": {
+      "message": "Kliknite, če želite aktivirati to razširitev"
+   },
+   "OnePer": {
+      "message": "En URL na vrstico:"
+   },
+   "Reset": {
+      "message": "Ponastavite na privzeto nastavitev"
+   },
+   "Save": {
+      "message": "Shranite nastavitve"
+   },
+   "SaveSuccess": {
+      "message": "Uspešno shranjeno!"
+   },
+   "WhiteList": {
+      "message": "Beli seznam (Vedno dovolite javascript za naslednji URL):"
+   }
+}

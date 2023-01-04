@@ -1,0 +1,50 @@
+{
+   "Allow": {
+      "message": "permettere"
+   },
+   "AppDesc": {
+      "message": "Un modo semplice per attivare / disattivare il JavaScript del sito Web"
+   },
+   "AppName": {
+      "message": "Abilitare JavaScript"
+   },
+   "BlackList": {
+      "message": "Lista nera (blocca sempre javascript per il seguente URL, un URL per riga):"
+   },
+   "Block": {
+      "message": "bloccare"
+   },
+   "BlockNotifications": {
+      "message": "Notifiche invio blocco estensione"
+   },
+   "ClickTo": {
+      "message": "Clicca su"
+   },
+   "ConfirmReset": {
+      "message": "Per confermare il ripristino, fare clic sul pulsante Salva"
+   },
+   "DontRefreshDisable": {
+      "message": "Non aggiornare la pagina Web corrente quando disabilita JS"
+   },
+   "DontRefreshEnable": {
+      "message": "Non aggiornare la pagina Web corrente quando abilita JS"
+   },
+   "FirstMsg": {
+      "message": "Fai clic per attivare questa estensione"
+   },
+   "OnePer": {
+      "message": "Un URL per riga:"
+   },
+   "Reset": {
+      "message": "Ripristina le impostazioni predefinite"
+   },
+   "Save": {
+      "message": "Salva le tue impostazioni"
+   },
+   "SaveSuccess": {
+      "message": "Salvato con successo!"
+   },
+   "WhiteList": {
+      "message": "Lista bianca (consenti sempre javascript per il seguente URL):"
+   }
+}

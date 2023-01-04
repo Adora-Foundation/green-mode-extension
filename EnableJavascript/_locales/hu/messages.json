@@ -1,0 +1,50 @@
+{
+   "Allow": {
+      "message": "lehetővé teszi"
+   },
+   "AppDesc": {
+      "message": "Könnyen be- és kikapcsolhatja a webhely JavaScriptét"
+   },
+   "AppName": {
+      "message": "Engedélyezze a JavaScriptet"
+   },
+   "BlackList": {
+      "message": "Feketelista (mindig blokkolja a javascriptet a következő URL-hez, soronként egy URL-t):"
+   },
+   "Block": {
+      "message": "Blokk"
+   },
+   "BlockNotifications": {
+      "message": "Blokkoló kiterjesztés értesítések küldése"
+   },
+   "ClickTo": {
+      "message": "Kattintson a gombra"
+   },
+   "ConfirmReset": {
+      "message": "A Reset megerősítéséhez kattintson a Mentés gombra"
+   },
+   "DontRefreshDisable": {
+      "message": "Ne frissítse az aktuális weboldalt, ha letiltja a JS-t"
+   },
+   "DontRefreshEnable": {
+      "message": "Ne frissítse az aktuális weboldalt, ha engedélyezte a JS-t"
+   },
+   "FirstMsg": {
+      "message": "Kattintson a kiterjesztés aktiválásához"
+   },
+   "OnePer": {
+      "message": "Soronként egy URL:"
+   },
+   "Reset": {
+      "message": "Visszaáll az alapértelmezett beállításra"
+   },
+   "Save": {
+      "message": "Mentse el a beállításait"
+   },
+   "SaveSuccess": {
+      "message": "Sikeresen elmentve!"
+   },
+   "WhiteList": {
+      "message": "Feladatlista (Mindig engedélyezze a javascriptet a következő URL-hez):"
+   }
+}

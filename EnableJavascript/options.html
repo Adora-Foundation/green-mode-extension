@@ -1,0 +1,65 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+  <title data-i18n="options_title"></title>
+  <meta charset="utf-8">
+  <link rel="stylesheet" src="css/options.css" />
+</head>
+
+<body>
+    <table width=100%>
+        <tr>
+            <td><input type="checkbox" id="refreshenabled"></td>
+            <td><label for="refreshenabled" data-loc="DontRefreshEnable"></label></td>
+        </tr>
+        <tr>
+            <td><input type="checkbox" id="refreshdisabled"></td>
+            <td>
+                <label for="refreshdisabled" data-loc="DontRefreshDisable">
+                </label>
+            </td>
+        </tr>
+        <tr>
+            <td><input type="checkbox" id="allowmsg"></td>
+            <td>
+                <label for="allowmsg" data-loc="BlockNotifications">
+                </label>
+            </td>
+        </tr>
+    </table>
+
+    <p>
+        <label>
+            <span data-loc="WhiteList"></span>
+            <textarea rows="4" id="whitelist"></textarea>
+            <span class="mute" data-loc="OnePer"></span>
+        </label>
+    </p>
+
+    <p>
+        <label>
+            <span data-loc="BlackList"></span>
+            <textarea rows="4" id="blacklist"></textarea>
+            <span class="mute" data-loc="OnePer"></span>
+        </label>
+    </p>
+
+    <div id="explore"></div>
+
+    <div>
+        <button id="reset" data-loc="Reset"></button>
+        <button id="save" data-loc="Save"></button>
+        <span id="msg"></span>
+    </div>
+    <div>
+        <a href="#" target="_blank" id="drive" class="btn-sm btn-secondary">Drive feature</a>
+        <a href="#" target="_blank" id="rate" class="btn-sm btn-secondary">Rate us</a>
+        <a href="#" target="_blank" id="home" class="btn-sm btn-secondary">Homepage</a>
+    </div>
+
+    <script type="module" src="js/common.js"></script>
+    <script type="module" src="js/options.js"></script>
+
+</body>
+</html>

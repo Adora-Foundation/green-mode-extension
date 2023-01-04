@@ -1,0 +1,50 @@
+{
+   "Allow": {
+      "message": "อนุญาต"
+   },
+   "AppDesc": {
+      "message": "วิธีง่ายๆในการเปิด / ปิด JavaScript ของเว็บไซต์"
+   },
+   "AppName": {
+      "message": "เปิดใช้งาน JavaScript"
+   },
+   "BlackList": {
+      "message": "บัญชีดำ (บล็อกจาวาสคริปต์ทุกครั้งเมื่อติดตาม url ต่อไปนี้หนึ่ง URL ต่อบรรทัด):"
+   },
+   "Block": {
+      "message": "บล็อก"
+   },
+   "BlockNotifications": {
+      "message": "ปิดกั้นการส่งการแจ้งเตือน"
+   },
+   "ClickTo": {
+      "message": "คลิกเพื่อ"
+   },
+   "ConfirmReset": {
+      "message": "เพื่อยืนยันการรีเซ็ตคลิกปุ่มบันทึก"
+   },
+   "DontRefreshDisable": {
+      "message": "อย่ารีเฟรชหน้าเว็บปัจจุบันเมื่อปิดการใช้งาน JS"
+   },
+   "DontRefreshEnable": {
+      "message": "อย่ารีเฟรชหน้าเว็บปัจจุบันเมื่อเปิดใช้งาน JS"
+   },
+   "FirstMsg": {
+      "message": "คลิกเพื่อเปิดใช้งานส่วนขยายนี้"
+   },
+   "OnePer": {
+      "message": "หนึ่ง URL ต่อบรรทัด:"
+   },
+   "Reset": {
+      "message": "รีเซ็ตเป็นค่าเริ่มต้น"
+   },
+   "Save": {
+      "message": "บันทึกการตั้งค่าของคุณ"
+   },
+   "SaveSuccess": {
+      "message": "บันทึกเรียบร้อยแล้ว!"
+   },
+   "WhiteList": {
+      "message": "รายการที่อนุญาต (อนุญาตจาวาสคริปต์สำหรับ url ต่อไปนี้เสมอ):"
+   }
+}

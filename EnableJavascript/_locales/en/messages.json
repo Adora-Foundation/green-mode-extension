@@ -1,0 +1,50 @@
+{
+   "Allow": {
+      "message": "allow"
+   },
+   "AppDesc": {
+      "message": "An easily way to turn ON/OFF website's JavaScript"
+   },
+   "AppName": {
+      "message": "Enable JavaScript"
+   },
+   "BlackList": {
+      "message": "Blacklist (Always block javascript for following url, one url per line):"
+   },
+   "Block": {
+      "message": "block"
+   },
+   "BlockNotifications": {
+      "message": "Block extension send notifications"
+   },
+   "ClickTo": {
+      "message": "Click to"
+   },
+   "ConfirmReset": {
+      "message": "To confirm Reset click Save button"
+   },
+   "DontRefreshDisable": {
+      "message": "Don't refresh current webpage when disable JS"
+   },
+   "DontRefreshEnable": {
+      "message": "Don't refresh current webpage when enable JS"
+   },
+   "FirstMsg": {
+      "message": "Click to active this extension"
+   },
+   "OnePer": {
+      "message": "One url per line:"
+   },
+   "Reset": {
+      "message": "Reset to default setting"
+   },
+   "Save": {
+      "message": "Save your settings"
+   },
+   "SaveSuccess": {
+      "message": "Saved successfully!"
+   },
+   "WhiteList": {
+      "message": "Whitelist (Always allow javascript for following url):"
+   }
+}

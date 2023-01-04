@@ -1,0 +1,50 @@
+{
+   "Allow": {
+      "message": "Atļaut"
+   },
+   "AppDesc": {
+      "message": "Vienkāršs veids, kā ieslēgt / izslēgt vietnes JavaScript"
+   },
+   "AppName": {
+      "message": "Iespējot JavaScript"
+   },
+   "BlackList": {
+      "message": "Melnais saraksts (vienmēr bloķējiet javascript sekojošam URL, viens URL katrā rindiņā):"
+   },
+   "Block": {
+      "message": "bloķēt"
+   },
+   "BlockNotifications": {
+      "message": "Bloķēt paplašinājumu, lai nosūtītu paziņojumus"
+   },
+   "ClickTo": {
+      "message": "Noklikšķiniet, lai"
+   },
+   "ConfirmReset": {
+      "message": "Lai apstiprinātu atiestatīšanu, noklikšķiniet uz pogas Saglabāt"
+   },
+   "DontRefreshDisable": {
+      "message": "Neatsvaidziniet pašreizējo tīmekļa lapu, atspējojot JS"
+   },
+   "DontRefreshEnable": {
+      "message": "Neatsvaidziniet pašreizējo tīmekļa lapu, kad iespējota JS"
+   },
+   "FirstMsg": {
+      "message": "Noklikšķiniet, lai aktivizētu šo paplašinājumu"
+   },
+   "OnePer": {
+      "message": "Viens URL katrā rindiņā:"
+   },
+   "Reset": {
+      "message": "Atiestatīt uz noklusējuma iestatījumu"
+   },
+   "Save": {
+      "message": "Saglabājiet iestatījumus"
+   },
+   "SaveSuccess": {
+      "message": "Saglabāts veiksmīgi!"
+   },
+   "WhiteList": {
+      "message": "Baltais saraksts (vienmēr atļaujiet javascript šādam URL):"
+   }
+}

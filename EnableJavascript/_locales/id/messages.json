@@ -1,0 +1,50 @@
+{
+   "Allow": {
+      "message": "mengizinkan"
+   },
+   "AppDesc": {
+      "message": "Cara mudah untuk mengaktifkan / menonaktifkan JavaScript situs web"
+   },
+   "AppName": {
+      "message": "Aktifkan JavaScript"
+   },
+   "BlackList": {
+      "message": "Blacklist (Selalu blokir javascript untuk url berikut, satu url per baris):"
+   },
+   "Block": {
+      "message": "blok"
+   },
+   "BlockNotifications": {
+      "message": "Cekal pemberitahuan pengiriman ekstensi"
+   },
+   "ClickTo": {
+      "message": "Klik untuk"
+   },
+   "ConfirmReset": {
+      "message": "Untuk mengonfirmasi Reset, klik tombol Simpan"
+   },
+   "DontRefreshDisable": {
+      "message": "Jangan menyegarkan halaman web saat ini ketika menonaktifkan JS"
+   },
+   "DontRefreshEnable": {
+      "message": "Jangan menyegarkan halaman web saat ini ketika mengaktifkan JS"
+   },
+   "FirstMsg": {
+      "message": "Klik untuk mengaktifkan ekstensi ini"
+   },
+   "OnePer": {
+      "message": "Satu url per baris:"
+   },
+   "Reset": {
+      "message": "Atur ulang ke pengaturan default"
+   },
+   "Save": {
+      "message": "Simpan pengaturan Anda"
+   },
+   "SaveSuccess": {
+      "message": "Berhasil disimpan!"
+   },
+   "WhiteList": {
+      "message": "Daftar Putih (Selalu izinkan javascript untuk url berikut):"
+   }
+}

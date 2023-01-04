@@ -1,0 +1,50 @@
+{
+   "Allow": {
+      "message": "cho phép"
+   },
+   "AppDesc": {
+      "message": "Một cách dễ dàng để bật JavaScript của ON / OFF trang web"
+   },
+   "AppName": {
+      "message": "Kích hoạt JavaScript"
+   },
+   "BlackList": {
+      "message": "Danh sách đen (Luôn chặn javascript cho url sau, một url trên mỗi dòng):"
+   },
+   "Block": {
+      "message": "khối"
+   },
+   "BlockNotifications": {
+      "message": "Chặn thông báo mở rộng"
+   },
+   "ClickTo": {
+      "message": "Bấm vào để"
+   },
+   "ConfirmReset": {
+      "message": "Để xác nhận Đặt lại, nhấp vào nút Lưu"
+   },
+   "DontRefreshDisable": {
+      "message": "Không làm mới trang web hiện tại khi tắt JS"
+   },
+   "DontRefreshEnable": {
+      "message": "Không làm mới trang web hiện tại khi bật JS"
+   },
+   "FirstMsg": {
+      "message": "Nhấn vào đây để kích hoạt tiện ích mở rộng này"
+   },
+   "OnePer": {
+      "message": "Một url trên mỗi dòng:"
+   },
+   "Reset": {
+      "message": "Đặt lại về cài đặt mặc định"
+   },
+   "Save": {
+      "message": "Lưu cài đặt của bạn"
+   },
+   "SaveSuccess": {
+      "message": "Đã lưu thành công!"
+   },
+   "WhiteList": {
+      "message": "Danh sách trắng (Luôn cho phép javascript cho url sau):"
+   }
+}

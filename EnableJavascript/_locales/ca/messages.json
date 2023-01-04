@@ -1,0 +1,50 @@
+{
+   "Allow": {
+      "message": "permetre"
+   },
+   "AppDesc": {
+      "message": "Una forma senzilla d’activar i desactivar el JavaScript del lloc web"
+   },
+   "AppName": {
+      "message": "Activa JavaScript"
+   },
+   "BlackList": {
+      "message": "Llista negra (bloca sempre javascript per url següent, una URL per línia):"
+   },
+   "Block": {
+      "message": "bloc"
+   },
+   "BlockNotifications": {
+      "message": "L’extensió de bloc envia les notificacions"
+   },
+   "ClickTo": {
+      "message": "Feu clic a"
+   },
+   "ConfirmReset": {
+      "message": "Per confirmar Restablir, feu clic al botó Desa"
+   },
+   "DontRefreshDisable": {
+      "message": "No actualitzeu la pàgina web actual quan desactiveu JS"
+   },
+   "DontRefreshEnable": {
+      "message": "No actualitzeu la pàgina web actual quan activeu JS"
+   },
+   "FirstMsg": {
+      "message": "Feu clic per activar aquesta extensió"
+   },
+   "OnePer": {
+      "message": "Una URL per línia:"
+   },
+   "Reset": {
+      "message": "Restableix la configuració predeterminada"
+   },
+   "Save": {
+      "message": "Desa la configuració"
+   },
+   "SaveSuccess": {
+      "message": "S&#39;ha desat correctament"
+   },
+   "WhiteList": {
+      "message": "Llista blanca (Permet sempre javascript per a l’URL següent):"
+   }
+}

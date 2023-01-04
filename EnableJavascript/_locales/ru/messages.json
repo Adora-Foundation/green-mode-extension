@@ -1,0 +1,50 @@
+{
+   "Allow": {
+      "message": "позволять"
+   },
+   "AppDesc": {
+      "message": "Простой способ включить / выключить JavaScript веб-сайта"
+   },
+   "AppName": {
+      "message": "Включить JavaScript"
+   },
+   "BlackList": {
+      "message": "Черный список (всегда блокируйте javascript для следующего URL, по одному URL на строку):"
+   },
+   "Block": {
+      "message": "блок"
+   },
+   "BlockNotifications": {
+      "message": "Блокировка расширения отправлять уведомления"
+   },
+   "ClickTo": {
+      "message": "Нажмите для"
+   },
+   "ConfirmReset": {
+      "message": "Для подтверждения сброса нажмите кнопку Сохранить"
+   },
+   "DontRefreshDisable": {
+      "message": "Не обновлять текущую веб-страницу при отключении JS"
+   },
+   "DontRefreshEnable": {
+      "message": "Не обновлять текущую веб-страницу при включении JS"
+   },
+   "FirstMsg": {
+      "message": "Нажмите, чтобы активировать это расширение"
+   },
+   "OnePer": {
+      "message": "Один URL в строке:"
+   },
+   "Reset": {
+      "message": "Сброс к настройкам по умолчанию"
+   },
+   "Save": {
+      "message": "Сохраните ваши настройки"
+   },
+   "SaveSuccess": {
+      "message": "Успешно сохранено!"
+   },
+   "WhiteList": {
+      "message": "Белый список (всегда разрешать JavaScript для следующих URL):"
+   }
+}

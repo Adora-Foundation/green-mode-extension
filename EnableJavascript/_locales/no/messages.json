@@ -1,0 +1,50 @@
+{
+   "Allow": {
+      "message": "tillate"
+   },
+   "AppDesc": {
+      "message": "En enkel måte å slå JavaScript på av / på på nettstedet"
+   },
+   "AppName": {
+      "message": "Aktiver JavaScript"
+   },
+   "BlackList": {
+      "message": "Svarteliste (blokker alltid JavaScript for følgende url, en url per linje):"
+   },
+   "Block": {
+      "message": "blokkere"
+   },
+   "BlockNotifications": {
+      "message": "Blokker utvidelser send varsler"
+   },
+   "ClickTo": {
+      "message": "Klikk for å"
+   },
+   "ConfirmReset": {
+      "message": "For å bekrefte Tilbakestill, klikk Lagre-knappen"
+   },
+   "DontRefreshDisable": {
+      "message": "Ikke oppdater gjeldende webside når du deaktiverer JS"
+   },
+   "DontRefreshEnable": {
+      "message": "Ikke oppdater gjeldende webside når du aktiverer JS"
+   },
+   "FirstMsg": {
+      "message": "Klikk for å aktivere denne utvidelsen"
+   },
+   "OnePer": {
+      "message": "Én url per linje:"
+   },
+   "Reset": {
+      "message": "Tilbakestill til standardinnstilling"
+   },
+   "Save": {
+      "message": "Lagre innstillingene"
+   },
+   "SaveSuccess": {
+      "message": "Lagret!"
+   },
+   "WhiteList": {
+      "message": "Hviteliste (tillat alltid JavaScript for følgende url):"
+   }
+}

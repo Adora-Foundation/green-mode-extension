@@ -1,0 +1,50 @@
+{
+   "Allow": {
+      "message": "dovolit"
+   },
+   "AppDesc": {
+      "message": "Snadný způsob, jak zapnout / vypnout JavaScript webových stránek"
+   },
+   "AppName": {
+      "message": "Povolit JavaScript"
+   },
+   "BlackList": {
+      "message": "Blacklist (Vždy blokujte javascript pro následující adresu URL, jednu adresu URL na řádek):"
+   },
+   "Block": {
+      "message": "blok"
+   },
+   "BlockNotifications": {
+      "message": "Blokovat rozšíření o zasílání oznámení"
+   },
+   "ClickTo": {
+      "message": "Klikněte na"
+   },
+   "ConfirmReset": {
+      "message": "Potvrďte reset kliknutím na tlačítko Uložit"
+   },
+   "DontRefreshDisable": {
+      "message": "Při deaktivaci JS neaktualizujte aktuální webovou stránku"
+   },
+   "DontRefreshEnable": {
+      "message": "Pokud povolíte JS, neaktualizujte aktuální webovou stránku"
+   },
+   "FirstMsg": {
+      "message": "Klepnutím aktivujte toto rozšíření"
+   },
+   "OnePer": {
+      "message": "Jedna adresa URL na řádek:"
+   },
+   "Reset": {
+      "message": "Obnovit výchozí nastavení"
+   },
+   "Save": {
+      "message": "Uložte nastavení"
+   },
+   "SaveSuccess": {
+      "message": "Úspěšně uloženo!"
+   },
+   "WhiteList": {
+      "message": "Seznam povolených (vždy povolte javascript pro následující adresu URL):"
+   }
+}

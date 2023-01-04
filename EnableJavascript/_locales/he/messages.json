@@ -1,0 +1,50 @@
+{
+   "Allow": {
+      "message": "להתיר"
+   },
+   "AppDesc": {
+      "message": "דרך קלה להפעיל / כבה את JavaScript האתר של האתר"
+   },
+   "AppName": {
+      "message": "הפעל JavaScript"
+   },
+   "BlackList": {
+      "message": "רשימה שחורה (חסום תמיד JavaScript ל- URL הבא, כתובת אחת בכל שורה):"
+   },
+   "Block": {
+      "message": "לַחסוֹם"
+   },
+   "BlockNotifications": {
+      "message": "חסום הרחבת שליחת התראות"
+   },
+   "ClickTo": {
+      "message": "לחץ ל"
+   },
+   "ConfirmReset": {
+      "message": "כדי לאשר איפוס לחץ על כפתור שמור"
+   },
+   "DontRefreshDisable": {
+      "message": "אל תרענן את דף האינטרנט הנוכחי כאשר השבת את JS"
+   },
+   "DontRefreshEnable": {
+      "message": "אל תרענן את דף האינטרנט הנוכחי כאשר הפעל את JS"
+   },
+   "FirstMsg": {
+      "message": "לחץ כדי להפעיל סיומת זו"
+   },
+   "OnePer": {
+      "message": "כתובת אחת בכל שורה:"
+   },
+   "Reset": {
+      "message": "אפס להגדרת ברירת המחדל"
+   },
+   "Save": {
+      "message": "שמור את ההגדרות שלך"
+   },
+   "SaveSuccess": {
+      "message": "נשמר בהצלחה!"
+   },
+   "WhiteList": {
+      "message": "רשימת לבן (אפשר תמיד JavaScript ל- url הבא):"
+   }
+}

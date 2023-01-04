@@ -1,0 +1,50 @@
+{
+   "Allow": {
+      "message": "許す"
+   },
+   "AppDesc": {
+      "message": "ウェブサイトのJavaScriptを簡単にオン/オフにする方法"
+   },
+   "AppName": {
+      "message": "JavaScriptを有効にする"
+   },
+   "BlackList": {
+      "message": "ブラックリスト（次のURLのJavaScriptを常にブロックする、1行に1つのURL）："
+   },
+   "Block": {
+      "message": "ブロック"
+   },
+   "BlockNotifications": {
+      "message": "拡張機能の通知をブロックする"
+   },
+   "ClickTo": {
+      "message": "クリックして"
+   },
+   "ConfirmReset": {
+      "message": "リセットを確認するには、[保存]ボタンをクリックします"
+   },
+   "DontRefreshDisable": {
+      "message": "JSを無効にするときに現在のWebページを更新しない"
+   },
+   "DontRefreshEnable": {
+      "message": "JSを有効にするときに現在のWebページを更新しない"
+   },
+   "FirstMsg": {
+      "message": "クリックしてこの拡張機能をアクティブにします"
+   },
+   "OnePer": {
+      "message": "1行に1つのURL："
+   },
+   "Reset": {
+      "message": "デフォルト設定にリセット"
+   },
+   "Save": {
+      "message": "設定を保存します"
+   },
+   "SaveSuccess": {
+      "message": "正常に保存！"
+   },
+   "WhiteList": {
+      "message": "ホワイトリスト（次のURLのJavaScriptを常に許可する）："
+   }
+}

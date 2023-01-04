@@ -1,0 +1,50 @@
+{
+   "Allow": {
+      "message": "toestaan"
+   },
+   "AppDesc": {
+      "message": "Een gemakkelijke manier om JavaScript van de website AAN / UIT te zetten"
+   },
+   "AppName": {
+      "message": "Schakel Javascript in"
+   },
+   "BlackList": {
+      "message": "Blacklist (blokkeer javascript altijd voor het volgen van de url, één url per regel):"
+   },
+   "Block": {
+      "message": "blok"
+   },
+   "BlockNotifications": {
+      "message": "Blokkeer extensie stuur meldingen"
+   },
+   "ClickTo": {
+      "message": "Klik naar"
+   },
+   "ConfirmReset": {
+      "message": "Klik op de knop Opslaan om de reset te bevestigen"
+   },
+   "DontRefreshDisable": {
+      "message": "Vernieuw de huidige webpagina niet wanneer JS is uitgeschakeld"
+   },
+   "DontRefreshEnable": {
+      "message": "Vernieuw de huidige webpagina niet wanneer JS is ingeschakeld"
+   },
+   "FirstMsg": {
+      "message": "Klik om deze extensie te activeren"
+   },
+   "OnePer": {
+      "message": "Eén URL per regel:"
+   },
+   "Reset": {
+      "message": "Resetten naar standaardinstelling"
+   },
+   "Save": {
+      "message": "Sla uw instellingen op"
+   },
+   "SaveSuccess": {
+      "message": "Met succes opgeslagen!"
+   },
+   "WhiteList": {
+      "message": "Witte lijst (Javascript altijd toestaan voor de volgende url):"
+   }
+}

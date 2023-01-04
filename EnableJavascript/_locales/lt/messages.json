@@ -1,0 +1,50 @@
+{
+   "Allow": {
+      "message": "leisti"
+   },
+   "AppDesc": {
+      "message": "Paprastas būdas įjungti / išjungti svetainės „JavaScript“"
+   },
+   "AppName": {
+      "message": "Įgalinti „JavaScript“"
+   },
+   "BlackList": {
+      "message": "Juodasis sąrašas (visada blokuokite „JavaScript“ šiam URL, po vieną URL kiekvienoje eilutėje):"
+   },
+   "Block": {
+      "message": "blokuoti"
+   },
+   "BlockNotifications": {
+      "message": "Blokuoti plėtinį siųsti pranešimus"
+   },
+   "ClickTo": {
+      "message": "Spustelėkite"
+   },
+   "ConfirmReset": {
+      "message": "Norėdami patvirtinti iš naujo, spustelėkite mygtuką Išsaugoti"
+   },
+   "DontRefreshDisable": {
+      "message": "Neatnaujinkite dabartinio tinklalapio, kai išjungiate JS"
+   },
+   "DontRefreshEnable": {
+      "message": "Neatnaujinkite dabartinio tinklalapio, kai įgalinsite JS"
+   },
+   "FirstMsg": {
+      "message": "Spustelėkite, kad suaktyvintumėte šį plėtinį"
+   },
+   "OnePer": {
+      "message": "Vienas URL eilutėje:"
+   },
+   "Reset": {
+      "message": "Atkurti numatytąjį nustatymą"
+   },
+   "Save": {
+      "message": "Išsaugokite nustatymus"
+   },
+   "SaveSuccess": {
+      "message": "Išsaugota sėkmingai!"
+   },
+   "WhiteList": {
+      "message": "Baltasis sąrašas (visada leiskite „JavaScript“ šiam URL):"
+   }
+}

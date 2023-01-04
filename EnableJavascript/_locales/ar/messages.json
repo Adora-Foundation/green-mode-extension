@@ -1,0 +1,50 @@
+{
+   "Allow": {
+      "message": "السماح"
+   },
+   "AppDesc": {
+      "message": "طريقة سهلة لتشغيل / إيقاف تشغيل JavaScript لموقع الويب"
+   },
+   "AppName": {
+      "message": "تمكين JavaScript"
+   },
+   "BlackList": {
+      "message": "القائمة السوداء (احظر جافا سكريبت دائمًا لعنوان URL التالي ، عنوان URL واحد لكل سطر):"
+   },
+   "Block": {
+      "message": "منع"
+   },
+   "BlockNotifications": {
+      "message": "حظر الإخطارات إرسال الإخطارات"
+   },
+   "ClickTo": {
+      "message": "انقر ل"
+   },
+   "ConfirmReset": {
+      "message": "لتأكيد إعادة الضبط ، انقر فوق الزر حفظ"
+   },
+   "DontRefreshDisable": {
+      "message": "لا تقم بتحديث صفحة الويب الحالية عند تعطيل JS"
+   },
+   "DontRefreshEnable": {
+      "message": "لا تقم بتحديث صفحة الويب الحالية عند تمكين JS"
+   },
+   "FirstMsg": {
+      "message": "انقر لتنشيط هذا التمديد"
+   },
+   "OnePer": {
+      "message": "عنوان URL واحد لكل سطر:"
+   },
+   "Reset": {
+      "message": "إعادة إلى الإعداد الافتراضي"
+   },
+   "Save": {
+      "message": "احفظ إعداداتك"
+   },
+   "SaveSuccess": {
+      "message": "حفظ بنجاح!"
+   },
+   "WhiteList": {
+      "message": "القائمة البيضاء (السماح دائمًا لجافا سكريبت لعنوان URL التالي):"
+   }
+}

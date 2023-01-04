@@ -9,8 +9,7 @@ v.0 will begin by integrating several key extensions from https://github.com/Ado
 
 So far I have integrated GreenIT-Analysis and EnableJavascript extensions by way of POC. This already allows you to get a solid start on environmental impact metrics from any site you visit, and watch them improved when you toggle JavaScript off for that tab (the toggle only applies per tab, so other tabs will have JavaScript enabled).
 
-![green mode extension in action](GreenModeExtension_AdobeExpress.gif)
-
+![](GreenModeExtension-1.gif)
 Version 0.01 is a very rough experiment, and needs much cleaning up, but already demonstrates the value in the concept. 
 
 Next I hope to add a few more core extensions around power consumption management (Tab Suspender), carbon offsetting, and some more graceful degradations, carbon awareness, and a start on Smart Mode.
